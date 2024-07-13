@@ -36,7 +36,7 @@ header i img {
     width: 100%;
     padding: 31px 0;
     text-align: center;
-    background-image: url(../img/puma_lifestile_2.jpg);
+    background-image: url(../img/pumabn2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: inline-block;
@@ -115,6 +115,10 @@ header i img {
 @media (max-width: 820px) {
     header {
         padding: 15px;
+    }
+
+    .banner {
+        height: 120px;
     }
 
     .products {
