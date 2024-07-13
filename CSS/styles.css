@@ -36,7 +36,7 @@ header i img {
     width: 100%;
     padding: 31px 0;
     text-align: center;
-    background-image: url(../img/puma_lifestyle3.jpg)
+    background-image: url(../img/puma_lifestyle3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: inline-block;
