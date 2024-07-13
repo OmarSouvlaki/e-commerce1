@@ -36,7 +36,9 @@ header i img {
     width: 100%;
     padding: 31px 0;
     text-align: center;
+
     background-image: url(../img/pumabn2.jpg);
+
     background-size: cover;
     background-repeat: no-repeat;
     display: inline-block;
@@ -86,7 +88,9 @@ header i img {
     position: fixed;
     right: -100%;
     top: 100px;
+
     box-shadow: -6px -1px 22px -12px rgba(0, 0, 0, 30);
+
 }
 
 .cart img {
