@@ -86,7 +86,7 @@ header i img {
     position: fixed;
     right: -100%;
     top: 100px;
-    box-shadow: -19px -1px 22px -15px rgba(0, 0, 0, 30);
+    box-shadow: -6px -1px 22px -12px rgba(0, 0, 0, 30);
 }
 
 .cart img {
